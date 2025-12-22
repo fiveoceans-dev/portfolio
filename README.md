@@ -46,4 +46,6 @@ PokerNFT is a real-time multiplayer Texas Hold'em poker platform with Starknet i
 https://github.com/fiveoceans-dev/buena
 Buena is a simple online store ready for AI agents. It uses TypeScript, PLpgSQL, CSS, and Other. The dev stack includes React/Vite/TypeScript for frontend, Tailwind CSS, shadcn-ui components, and Supabase for backend/database.
 
-## 12. 
+## 12. Mission Control 
+https://github.com/fiveoceans-dev/wraith99-monorepo
+Wraith99 is an interactive map to track wildfires and fast responders. It uses EJS, JavaScript, and CSS.
