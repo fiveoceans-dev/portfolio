@@ -13,6 +13,7 @@ NounsDAOApp is an iOS social voting app integrated with Ethereum. It uses Swift,
 ## 3. Programming competition website (typescript, nodejs, PostgreSQL)
 https://github.com/fiveoceans-dev/solidity-masters
 Solidity-masters is a Solidity programming competition platform. It uses JavaScript, TypeScript, EJS, CSS, and Solidity for blockchain elements. The stack includes Next.js for frontend/server-side rendering, Prisma for database management, and Supabase PostgreSQL support.
+![Solidity-masters screenshot](img/3.png)
 
 ## 4. ATM project (C++)
 https://github.com/fiveoceans-dev/atm_project
@@ -20,7 +21,8 @@ Implement functions, classes, methods for development of ATM machine. The projec
 
 ## 5. Remote Control based on webRTC ()
 https://github.com/fiveoceans-dev/beam_robotics
-Beam Robotics is a vendor-agnostic remote command and control platform for robotics, including components for CAD, simulation, systems, templates, and web. The dev stack involves multi-language development with directories for various robotics aspects. Programming languages used: ASP.NET, C, C++, JavaScript, CMake, CSS, and Other.
+Beam Robotics is a vendor-agnostic remote command and control platform for robotics using unity sim and webRTC including components for CAD, simulation, systems, templates, and web. The dev stack involves multi-language development with directories for various robotics aspects. Programming languages used: ASP.NET, C, C++, JavaScript, CMake, CSS, and Other.
+![Unity sim web screenshot](img/5.png)
 
 ## 6. Cluster of GPUs ()
 https://github.com/fiveoceans-dev/nextmetal
@@ -48,4 +50,10 @@ Buena is a simple online store ready for AI agents. It uses TypeScript, PLpgSQL,
 
 ## 12. Mission Control 
 https://github.com/fiveoceans-dev/wraith99-monorepo
-Wraith99 is an interactive map to track wildfires and fast responders. It uses EJS, JavaScript, and CSS.
+Wraith99 is an interactive map allowing to place and manage entinites. Can be extended to track wildfires and fast responders. It uses EJS, JavaScript, and CSS.
+![Interactive map](img/12.png)
+
+## 13. Computer Game Data Agregator
+https://github.com/fiveoceans-dev/nextmetal-skill
+AI that learns by playing computer games.
+![Game data aggregator screenshot](img/13.png)
